@@ -50,7 +50,7 @@ blueprint:
       default:
       selector:
         entity:
-          domain: binary_sensor
+          domain: input_boolean
   source_url: https://github.com/apollo1220/blueprints/blob/main/camera_detection_notification.yaml
 mode: single
 max_exceeded: silent
